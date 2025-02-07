@@ -63,7 +63,7 @@ Contributions are welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/hnk229) file for details.
+This project is licensed under the MIT License - see the [Ulrich](houenoukpoulrich2@gmail.com) file for details.
 ## Screenshots
 
 Here are some screenshots of the application:
